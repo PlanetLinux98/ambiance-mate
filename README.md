@@ -1,2 +1,2 @@
 # ambiance-mate
-Theme varients of Ambiance MATE
+To install a theme, extract the tar.gz file to a location of your choosing, then copy the Atheme's folder to the /usr/share/themes folder. This can be done via the terminal or by opening up a root file manager session (in terminal, type "sudo [file manager name]". The file manager is normally caja in MATE, nautilus in GNOME, nemo in Cinnamon, and dolphin in KDE. Once the file manager is open with root access, navigate to where you extracted the theme's folder and copy it to the /usr/share/themes folder. Now you can go into your appearance / themes settings and set the theme.
